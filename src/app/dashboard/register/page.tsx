@@ -1,8 +1,8 @@
 
-export default function Home() {
+export default function Register() {
     return (
       <main className="">
-        Hello
+        register
       </main>
     )
   }

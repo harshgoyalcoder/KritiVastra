@@ -1,8 +1,8 @@
 
-export default function Home() {
+export default function List() {
     return (
       <main className="">
-        Hello
+        List
       </main>
     )
   }

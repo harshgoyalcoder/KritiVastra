@@ -1,8 +1,8 @@
 
-export default function Home() {
+export default function Product() {
     return (
       <main className="">
-        Hello
+        Main 
       </main>
     )
   }
